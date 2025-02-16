@@ -1,0 +1,12 @@
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\bin\Debug\net8.0\EducaGo.Shared.deps.json
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\bin\Debug\net8.0\EducaGo.Shared.dll
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\bin\Debug\net8.0\EducaGo.Shared.pdb
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.AssemblyInfoInputs.cache
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.AssemblyInfo.cs
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.csproj.CoreCompileInputs.cache
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.sourcelink.json
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.dll
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\refint\EducaGo.Shared.dll
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.pdb
+D:\proyectos_aqruitectura\EducaGo\EducaGo.Shared\obj\Debug\net8.0\ref\EducaGo.Shared.dll
