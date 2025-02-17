@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EducaGo.Mobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a9b2f8f0bdf4111195f0601c71b04ab86332eb29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+52b892ef82af63441a2c4f42076f5b7dbae09b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EducaGo.Mobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EducaGo.Mobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
