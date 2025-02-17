@@ -22,3 +22,15 @@ C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo
 C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\refint\EducaGo.Shared.dll
 C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.pdb
 C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\ref\EducaGo.Shared.dll
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\bin\Debug\net8.0\EducaGo.Shared.deps.json
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\bin\Debug\net8.0\EducaGo.Shared.dll
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\bin\Debug\net8.0\EducaGo.Shared.pdb
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.AssemblyInfoInputs.cache
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.AssemblyInfo.cs
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.sourcelink.json
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.dll
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\refint\EducaGo.Shared.dll
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\EducaGo.Shared.pdb
+C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Shared\obj\Debug\net8.0\ref\EducaGo.Shared.dll

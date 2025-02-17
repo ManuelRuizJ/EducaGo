@@ -33161,24 +33161,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\spygon9\\.nuget\\packages\\": {},
+    "C:\\Users\\tonyl\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\EducaGo.Mobile.csproj",
+      "projectUniqueName": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Mobile\\EducaGo.Mobile.csproj",
       "projectName": "EducaGo.Mobile",
-      "projectPath": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\EducaGo.Mobile.csproj",
-      "packagesPath": "C:\\Users\\spygon9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\obj\\",
+      "projectPath": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Mobile\\EducaGo.Mobile.csproj",
+      "packagesPath": "C:\\Users\\tonyl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\spygon9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tonyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

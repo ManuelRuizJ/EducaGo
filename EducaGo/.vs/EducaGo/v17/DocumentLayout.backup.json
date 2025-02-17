@@ -1,7 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Migrations\\20250217174021_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EducaGo.Web\\Migrations\\20250217174021_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.shared\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|solutionrelative:educago.shared\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.web\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|solutionrelative:educago.web\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.web\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|solutionrelative:educago.web\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|solutionrelative:educago.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|solutionrelative:educago.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.shared\\entities\\recursoeducativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|solutionrelative:educago.shared\\entities\\recursoeducativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.shared\\entities\\progresoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|solutionrelative:educago.shared\\entities\\progresoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.shared\\entities\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|solutionrelative:educago.shared\\entities\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.shared\\entities\\materialoffline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|solutionrelative:educago.shared\\entities\\materialoffline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.shared\\entities\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|solutionrelative:educago.shared\\entities\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|c:\\users\\tonyl\\onedrive\\documentos\\ibero\\arquitectura comp\\educa\\educago\\educago\\educago.shared\\entities\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8351474D-AF24-4E63-B811-97CB5C00D2E6}|EducaGo.Shared\\EducaGo.Shared.csproj|solutionrelative:educago.shared\\entities\\clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +58,159 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250217174021_user.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Migrations\\20250217174021_user.cs",
+              "RelativeDocumentMoniker": "EducaGo.Web\\Migrations\\20250217174021_user.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Migrations\\20250217174021_user.cs",
+              "RelativeToolTip": "EducaGo.Web\\Migrations\\20250217174021_user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:40:22.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "EducaGo.Web\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "EducaGo.Web\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:37:48.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EducaGo.Web\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Data\\DataContext.cs",
+              "RelativeToolTip": "EducaGo.Web\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:33:20.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EducaGo.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Program.cs",
+              "RelativeToolTip": "EducaGo.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:32:28.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EducaGo.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EducaGo.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:30:09.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "EducaGo.Shared\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Usuario.cs",
+              "RelativeToolTip": "EducaGo.Shared\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:29:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clase.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Clase.cs",
+              "RelativeDocumentMoniker": "EducaGo.Shared\\Entities\\Clase.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Clase.cs",
+              "RelativeToolTip": "EducaGo.Shared\\Entities\\Clase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:24:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecursoEducativo.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\RecursoEducativo.cs",
+              "RelativeDocumentMoniker": "EducaGo.Shared\\Entities\\RecursoEducativo.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\RecursoEducativo.cs",
+              "RelativeToolTip": "EducaGo.Shared\\Entities\\RecursoEducativo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:24:51.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProgresoEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\ProgresoEstudiante.cs",
+              "RelativeDocumentMoniker": "EducaGo.Shared\\Entities\\ProgresoEstudiante.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\ProgresoEstudiante.cs",
+              "RelativeToolTip": "EducaGo.Shared\\Entities\\ProgresoEstudiante.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:24:50.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Profesor.cs",
+              "RelativeDocumentMoniker": "EducaGo.Shared\\Entities\\Profesor.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Profesor.cs",
+              "RelativeToolTip": "EducaGo.Shared\\Entities\\Profesor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:24:49.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaterialOffline.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\MaterialOffline.cs",
+              "RelativeDocumentMoniker": "EducaGo.Shared\\Entities\\MaterialOffline.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\MaterialOffline.cs",
+              "RelativeToolTip": "EducaGo.Shared\\Entities\\MaterialOffline.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvw4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:24:47.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Estudiante.cs",
+              "RelativeDocumentMoniker": "EducaGo.Shared\\Entities\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\Entities\\Estudiante.cs",
+              "RelativeToolTip": "EducaGo.Shared\\Entities\\Estudiante.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:24:44.023Z"
             }
           ]
         }

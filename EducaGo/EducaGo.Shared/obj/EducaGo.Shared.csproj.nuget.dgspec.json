@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj": {}
+    "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj": {
+    "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj",
         "projectName": "EducaGo.Shared",
-        "projectPath": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj",
-        "packagesPath": "C:\\Users\\spygon9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Shared\\obj\\",
+        "projectPath": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\EducaGo.Shared.csproj",
+        "packagesPath": "C:\\Users\\tonyl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tonyl\\OneDrive\\Documentos\\IBERO\\Arquitectura comp\\Educa\\EducaGo\\EducaGo\\EducaGo.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\spygon9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tonyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
