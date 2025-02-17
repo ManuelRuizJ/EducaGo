@@ -12,11 +12,11 @@ namespace EducaGo.Shared.Entities
         public int Id { get; set; }
         [Required(ErrorMessage = "El campo {0} es obligatorio")]
         [MaxLength(100, ErrorMessage = "El campo {0} debe tener máximo {1} caracteres")]
-        public string Nombre { get; set; }
+        public string Nombre { get; set; } = string.Empty;
         [Required(ErrorMessage ="El campo {0} es obligatorio")]
-        public string Correo { get; set; }
+        public string Correo { get; set; } = string.Empty;
         [Required(ErrorMessage = "El campo {0} es obligatorio")]
-        public string Contraseña { get; set; }
+        public string Contraseña { get; set; } = string.Empty;
         public string Rol { get; set; }
     }
 }

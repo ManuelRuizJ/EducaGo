@@ -8,19 +8,11 @@ namespace EducaGo.Shared.Entities
 {
     public class Profesor
     {
-        int Id { get; set; }
-        string Nombre { get; set; } = null!;
-        string Apellido { get; set; } = null!;
-        string Correo { get; set; } = null!;
-        string Telefono { get; set; } = null!;
-        string Direccion { get; set; } = null!;
-        string Cedula { get; set; } = null!;
-        string Especialidad { get; set; } = null!;
-        string GradoAcademico { get; set; } = null!;
-        string Experiencia { get; set; } = null!;
-        string Foto { get; set; } = null!;
-        string Curriculum { get; set; } = null!;
-        string Estado { get; set; } = null!;
+        public int Id { get; set; }
+        public string Nombre { get; set; } = null!;
+        public string Apellido { get; set; } = null!;
+        public string Correo { get; set; } = null!;
+
 
 
     }
