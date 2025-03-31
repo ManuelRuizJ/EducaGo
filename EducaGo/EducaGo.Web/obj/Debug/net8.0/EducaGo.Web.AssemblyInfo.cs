@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EducaGo.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24ce861658bca48a7bceba0f5b11cb8aefc913c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd426ae45885e4c0f75fa2904459b06def622908")]
 [assembly: System.Reflection.AssemblyProductAttribute("EducaGo.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EducaGo.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
