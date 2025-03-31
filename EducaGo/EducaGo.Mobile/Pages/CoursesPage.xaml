@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EducaGo.Mobile.Pages.CoursesPage"
+             Title="CoursesPage">
+
+    <StackLayout Padding="20">
+        <Label Text="Curso 1" FontSize="Large" FontAttributes="Bold" />
+
+        <Button Text="Lección 1"
+                BackgroundColor="#42A5F5"
+                TextColor="White"
+                CornerRadius="10"
+                Margin="5"/>
+        <Button Text="Lección 2"
+                BackgroundColor="#42A5F5"
+                TextColor="White"
+                CornerRadius="10"
+                Margin="5"/>
+        <Button Text="Lección 3"
+                BackgroundColor="#42A5F5"
+                TextColor="White"
+                CornerRadius="10"
+                Margin="5"/>
+
+        <Label Text="Curso 2" FontSize="Large" FontAttributes="Bold" Margin="0,20,0,0"/>
+
+        <Button Text="Lección 4"
+                BackgroundColor="#FFA726"
+                TextColor="White"
+                CornerRadius="10"
+                Margin="5"/>
+        <Button Text="Lección 5"
+                BackgroundColor="#FFA726"
+                TextColor="White"
+                CornerRadius="10"
+                Margin="5"/>
+        <Button Text="Lección 6"
+                BackgroundColor="#FFA726"
+                TextColor="White"
+                CornerRadius="10"
+                Margin="5"/>
+    </StackLayout>
+
+</ContentPage>

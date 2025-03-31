@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EducaGo.Mobile.Pages.ProfilePage"
+             Title="ProfilePage">
+    <StackLayout Padding="20">
+
+        <!-- Título -->
+        <Label Text="Mi perfil" FontSize="Large" FontAttributes="Bold" />
+
+        <!-- Sección del usuario -->
+        <StackLayout Orientation="Horizontal" Margin="0,20,0,20">
+            <Image Source="user_placeholder.png"
+                   WidthRequest="60" HeightRequest="60"
+                   Aspect="AspectFill"/>
+            <StackLayout Padding="10,0,0,0">
+                <Label Text="Usuario" FontSize="Medium" FontAttributes="Bold"/>
+                <Label Text="correo@electrónico" FontSize="Small"/>
+            </StackLayout>
+        </StackLayout>
+
+        <!-- Cuadros de información -->
+        <Frame BackgroundColor="#E0E0E0" CornerRadius="5" Padding="10" Margin="0,5">
+            <Label Text="Grado cursado: N" FontSize="Medium"/>
+        </Frame>
+
+        <Frame BackgroundColor="#E0E0E0" CornerRadius="5" Padding="10" Margin="0,5">
+            <Label Text="Recordatorios" FontSize="Medium"/>
+        </Frame>
+
+        <Frame BackgroundColor="#E0E0E0" CornerRadius="5" Padding="10" Margin="0,5">
+            <Label Text="Ajustes" FontSize="Medium"/>
+        </Frame>
+
+    </StackLayout>
+</ContentPage>
