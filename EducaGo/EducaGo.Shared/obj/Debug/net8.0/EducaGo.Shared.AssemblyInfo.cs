@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EducaGo.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f94053e8da5f7433c2d9e9f54acc021b7d99a104")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24ce861658bca48a7bceba0f5b11cb8aefc913c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EducaGo.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EducaGo.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

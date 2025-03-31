@@ -1,4 +1,5 @@
-﻿using EducaGo.Shared.Entities;
+﻿using EducaGo.Shared.DTO;
+using EducaGo.Shared.Entities;
 using EducaGo.Web.Data;
 using EducaGo.Web.Migrations;
 using Microsoft.AspNetCore.Identity;
@@ -45,7 +46,7 @@ namespace EducaGo.Web.Helpers
             }
         }
 
-        public async Task<Usuario> GetUserAsync(string email)
+        public async Task<Usuario> GetUserAsync(string correo)
         {
             throw new NotImplementedException();
         }
@@ -53,6 +54,11 @@ namespace EducaGo.Web.Helpers
         public async Task<bool> IsUserInRoleAsync(Usuario usuario, string rol)
         {
             return await userManager.IsInRoleAsync(usuario, rol);
+        }
+
+        public async Task<SignInResult> LoginAsync(LoginDTO login)
+        {
+            return await signInManager.PasswordSignInAsync(login.Correo, login.Contraseña, false, false);
         }
 
         public async Task LogoutAsync()
