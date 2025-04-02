@@ -639,3 +639,15 @@ C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo
 C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Web\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.csproj.AssemblyReference.cache
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.AssemblyInfoInputs.cache
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.AssemblyInfo.cs
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.csproj.CoreCompileInputs.cache
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.RazorAssemblyInfo.cache
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.RazorAssemblyInfo.cs
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.sourcelink.json
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.dll
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\refint\EducaGo.Web.dll
+D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\obj\Debug\net8.0\EducaGo.Web.pdb

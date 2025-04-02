@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="EducaGo.Mobile.Pages.LessonPage"
              Title="LessonPage">
-    <VerticalStackLayout Padding="20" Spacing="15">
+    <VerticalStackLayout WidthRequest="900" Padding="40" Spacing="15">
 
         <!-- Título -->
         <Label Text="Curso 1-Lección 1" FontSize="24" FontAttributes="Bold" />

@@ -4,7 +4,7 @@
              x:Class="EducaGo.Mobile.Pages.CoursesPage"
              Title="CoursesPage">
 
-    <StackLayout Padding="20">
+    <StackLayout WidthRequest="800" Padding="20">
         <Label Text="Curso 1" FontSize="Large" FontAttributes="Bold" />
 
         <Button Text="Lección 1"

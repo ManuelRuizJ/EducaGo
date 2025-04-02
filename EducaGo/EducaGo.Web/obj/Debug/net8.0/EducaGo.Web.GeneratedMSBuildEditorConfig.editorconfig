@@ -17,101 +17,101 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EducaGo.Web
 build_property.RootNamespace = EducaGo.Web
-build_property.ProjectDir = C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo\EducaGo.Web\
+build_property.ProjectDir = D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo\EducaGo.Web
+build_property.MSBuildProjectDirectory = D:\ArquitecturaProjects\EducaGo\EducaGo\EducaGo.Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Home/Index.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Home/Privacy.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Create.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Delete.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Details.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Edit.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Index.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Profesors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Create.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb0VkdWNhdGl2b2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Delete.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb0VkdWNhdGl2b2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Details.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb0VkdWNhdGl2b2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Edit.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb0VkdWNhdGl2b2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Index.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/RecursoEducativoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjdXJzb0VkdWNhdGl2b2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Shared/Error.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Create.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Delete.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Details.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Edit.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Index.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/_ViewImports.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/_ViewStart.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/spygon9/Documents/Arquitectura de Computadoras/Proyecto/EducaGo/EducaGo/EducaGo.Web/Views/Shared/_Layout.cshtml]
+[D:/ArquitecturaProjects/EducaGo/EducaGo/EducaGo.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-68t5m3xhr1

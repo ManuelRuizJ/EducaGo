@@ -4,7 +4,7 @@
              x:Class="EducaGo.Mobile.Pages.LoginPage"
              Title="LoginPage">
     <ScrollView>
-        <VerticalStackLayout Padding="20" Spacing="20">
+        <VerticalStackLayout WidthRequest="500" Padding="20" Spacing="20">
 
             <!-- Logo -->
             <Image Source="logo.png" HeightRequest="100" HorizontalOptions="Center" />
