@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\coursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\coursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\lessonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\lessonpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\coursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\coursespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\coursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\coursespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.web\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|solutionrelative:educago.web\\controllers\\cuentascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\educago.mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\educago.mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{81F88D44-2FAA-4419-95E9-9982C2DEBCCA}|EducaGo.Web\\EducaGo.Web.csproj|solutionrelative:educago.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|c:\\users\\spygon9\\documents\\arquitectura de computadoras\\proyecto\\educago\\educago\\educago.mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DF8DDE6-FDCE-430A-89CA-C16805713B0F}|EducaGo.Mobile\\EducaGo.Mobile.csproj|solutionrelative:educago.mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,93 +66,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProfilePage.xaml",
-              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\ProfilePage.xaml",
-              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\ProfilePage.xaml",
-              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\ProfilePage.xaml",
-              "RelativeToolTip": "EducaGo.Mobile\\Pages\\ProfilePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T10:19:13.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomePage.xaml",
-              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\HomePage.xaml",
-              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\HomePage.xaml",
-              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\HomePage.xaml*",
-              "RelativeToolTip": "EducaGo.Mobile\\Pages\\HomePage.xaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Title": "LessonPage.xaml",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LessonPage.xaml",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\LessonPage.xaml",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LessonPage.xaml*",
+              "RelativeToolTip": "EducaGo.Mobile\\Pages\\LessonPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T10:16:04.137Z",
+              "WhenOpened": "2025-04-02T11:29:31.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "EducaGo.Mobile\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:38:07.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\RegisterPage.xaml.cs",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\RegisterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\RegisterPage.xaml.cs",
+              "RelativeToolTip": "EducaGo.Mobile\\Pages\\RegisterPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:05:51.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\RegisterPage.xaml",
+              "RelativeToolTip": "EducaGo.Mobile\\Pages\\RegisterPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T11:03:31.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CoursesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\CoursesPage.xaml.cs",
               "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\CoursesPage.xaml.cs",
               "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\CoursesPage.xaml.cs",
               "RelativeToolTip": "EducaGo.Mobile\\Pages\\CoursesPage.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T09:36:59.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CoursesPage.xaml",
               "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\CoursesPage.xaml",
               "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\CoursesPage.xaml",
               "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\CoursesPage.xaml",
               "RelativeToolTip": "EducaGo.Mobile\\Pages\\CoursesPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-31T09:35:53.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "EducaGo.Mobile\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\MainPage.xaml.cs",
               "RelativeToolTip": "EducaGo.Mobile\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T09:33:17.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml",
-              "RelativeToolTip": "EducaGo.Mobile\\Pages\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-31T09:31:01.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
-              "RelativeToolTip": "EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T09:32:12.785Z",
               "EditorCaption": ""
             },
             {
@@ -159,48 +163,61 @@
               "RelativeDocumentMoniker": "EducaGo.Mobile\\MainPage.xaml",
               "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\MainPage.xaml",
               "RelativeToolTip": "EducaGo.Mobile\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-31T09:29:17.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EducaGo.Mobile",
-              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\EducaGo.Mobile.csproj",
-              "RelativeDocumentMoniker": "EducaGo.Mobile\\EducaGo.Mobile.csproj",
-              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\EducaGo.Mobile.csproj",
-              "RelativeToolTip": "EducaGo.Mobile\\EducaGo.Mobile.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-31T09:26:39.188Z",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "EducaGo.Mobile\\Pages\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T09:31:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "EducaGo.Mobile\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:32:12.785Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EducaGo.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EducaGo.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-31T09:23:43.579Z",
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "EducaGo.Mobile\\Pages\\HomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-31T10:16:04.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CuentasController.cs",
-              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Web\\Controllers\\CuentasController.cs",
-              "RelativeDocumentMoniker": "EducaGo.Web\\Controllers\\CuentasController.cs",
-              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Web\\Controllers\\CuentasController.cs",
-              "RelativeToolTip": "EducaGo.Web\\Controllers\\CuentasController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwD4AAAAiAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "EducaGo.Mobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\spygon9\\Documents\\Arquitectura de Computadoras\\Proyecto\\EducaGo\\EducaGo\\EducaGo.Mobile\\App.xaml.cs",
+              "RelativeToolTip": "EducaGo.Mobile\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T08:14:26.688Z",
+              "WhenOpened": "2025-04-02T10:31:38.15Z",
               "EditorCaption": ""
             }
           ]

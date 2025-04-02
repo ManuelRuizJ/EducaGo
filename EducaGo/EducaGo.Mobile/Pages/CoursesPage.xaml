@@ -11,7 +11,8 @@
                 BackgroundColor="#42A5F5"
                 TextColor="White"
                 CornerRadius="10"
-                Margin="5"/>
+                Margin="5"
+                Clicked="LessonClicked"/>
         <Button Text="Lección 2"
                 BackgroundColor="#42A5F5"
                 TextColor="White"

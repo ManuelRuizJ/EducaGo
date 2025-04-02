@@ -4,21 +4,29 @@
              x:Class="EducaGo.Mobile.Pages.LoginPage"
              Title="LoginPage">
     <ScrollView>
-        <VerticalStackLayout>
-            <Label 
-                 Text="username"
-                 VerticalOptions="Center" 
-                 HorizontalOptions="Center" />
-            <Entry
-                 />
-            <Label 
-                 Text="Password"
-                 VerticalOptions="Center" 
-                 HorizontalOptions="Center" />
-            <Entry IsPassword="True"
-                 />
-            <Button Text="Login"/>
-            <Button Text="Register"/>
+        <VerticalStackLayout Padding="20" Spacing="20">
+
+            <!-- Logo -->
+            <Image Source="logo.png" HeightRequest="100" HorizontalOptions="Center" />
+
+            <!-- Título -->
+            <Label Text="Bienvenido" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
+
+            <!-- Campo de Email -->
+            <Entry Placeholder="Email" Keyboard="Email" />
+
+            <!-- Campo de Contraseña -->
+            <Entry Placeholder="Contraseña" IsPassword="True" />
+
+            <!-- Olvidaste tu contraseña -->
+            <Button Text="Olvidaste tu contraseña?" TextColor="Blue" BackgroundColor="Transparent" />
+
+            <!-- Botón de Iniciar sesión -->
+            <Button Text="Iniciar sesión" BackgroundColor="Blue" TextColor="White" CornerRadius="10" Clicked="LoginClicked"/>
+
+            <!-- Registro -->
+            <Button Text="No tienes cuenta? Regístrate" TextColor="Blue" BackgroundColor="Transparent" Clicked="RegisterClicked" />
+
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

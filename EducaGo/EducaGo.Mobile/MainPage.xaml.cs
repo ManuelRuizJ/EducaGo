@@ -19,7 +19,7 @@
                 CounterBtn.Text = $"Clicked {count} times";
 
             SemanticScreenReader.Announce(CounterBtn.Text);
-            await Navigation.PushModalAsync(new Pages.HomePage());
+            await Navigation.PushModalAsync(new Pages.LoginPage());
         }
     }
 

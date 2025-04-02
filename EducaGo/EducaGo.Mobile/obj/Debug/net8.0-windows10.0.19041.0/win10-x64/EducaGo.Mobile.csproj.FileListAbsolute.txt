@@ -538,3 +538,5 @@ C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo
 C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\tonyl\OneDrive\Documentos\IBERO\Arquitectura comp\Educa\EducaGo\EducaGo\EducaGo.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo\EducaGo.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
+C:\Users\spygon9\Documents\Arquitectura de Computadoras\Proyecto\EducaGo\EducaGo\EducaGo.Mobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\video_icon.scale-100.png

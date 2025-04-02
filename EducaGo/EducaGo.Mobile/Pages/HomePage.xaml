@@ -9,7 +9,7 @@
         <!-- Curso 1 -->
         <Frame BackgroundColor="#42A5F5" CornerRadius="10" Padding="10" Margin="5">
             <StackLayout>
-                <Label Text="Curso 1" FontSize="Medium" TextColor="White" FontAttributes="Bold"/>
+                <Button Text="Curso 1" FontSize="Medium" TextColor="White" FontAttributes="Bold" BackgroundColor="Transparent" Clicked="Course1Clicked"/>
                 <Label Text="75% por completar" FontSize="Small" TextColor="White"/>
                 <ProgressBar Progress="0.75" BackgroundColor="White" HeightRequest="5"/>
             </StackLayout>
@@ -18,7 +18,7 @@
         <!-- Curso 2 -->
         <Frame BackgroundColor="#FFA726" CornerRadius="10" Padding="10" Margin="5">
             <StackLayout>
-                <Label Text="Curso 2" FontSize="Medium" TextColor="Black" FontAttributes="Bold"/>
+                <Button Text="Curso 2" FontSize="Medium" TextColor="Black" FontAttributes="Bold" BackgroundColor="Transparent" Command="{Binding Course2Command}"/>
                 <Label Text="75% por completar" FontSize="Small" TextColor="Black"/>
                 <ProgressBar Progress="0.75" BackgroundColor="White" HeightRequest="5"/>
             </StackLayout>
@@ -27,7 +27,7 @@
         <!-- Curso 3 -->
         <Frame BackgroundColor="#EF9A9A" CornerRadius="10" Padding="10" Margin="5">
             <StackLayout>
-                <Label Text="Curso 3" FontSize="Medium" TextColor="Black" FontAttributes="Bold"/>
+                <Button Text="Curso 3" FontSize="Medium" TextColor="Black" FontAttributes="Bold" BackgroundColor="Transparent" Command="{Binding Course3Command}"/>
                 <Label Text="75% por completar" FontSize="Small" TextColor="Black"/>
                 <ProgressBar Progress="0.75" BackgroundColor="White" HeightRequest="5"/>
             </StackLayout>
@@ -36,7 +36,7 @@
         <!-- Curso 4 -->
         <Frame BackgroundColor="#90CAF9" CornerRadius="10" Padding="10" Margin="5">
             <StackLayout>
-                <Label Text="Curso 3" FontSize="Medium" TextColor="Black" FontAttributes="Bold"/>
+                <Button Text="Curso 4" FontSize="Medium" TextColor="Black" FontAttributes="Bold" BackgroundColor="Transparent" Command="{Binding Course4Command}"/>
                 <Label Text="75% por completar" FontSize="Small" TextColor="Black"/>
                 <ProgressBar Progress="0.75" BackgroundColor="White" HeightRequest="5"/>
             </StackLayout>

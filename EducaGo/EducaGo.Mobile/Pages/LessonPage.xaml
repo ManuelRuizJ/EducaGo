@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EducaGo.Mobile.Pages.LessonPage"
+             Title="LessonPage">
+    <VerticalStackLayout Padding="20" Spacing="15">
+
+        <!-- Título -->
+        <Label Text="Curso 1-Lección 1" FontSize="24" FontAttributes="Bold" />
+
+        <!-- Contenedor Principal -->
+        <Frame BackgroundColor="#4DB6AC" CornerRadius="10" Padding="10">
+            <VerticalStackLayout>
+                <!-- Encabezado de la lección -->
+                <Frame BackgroundColor="#B2EBF2" CornerRadius="10" Padding="10">
+                    <Label Text="Lesson 01: Introduction about" FontSize="14" FontAttributes="Bold" TextColor="White" />
+                </Frame>
+
+                <!-- Tarjeta de la lección -->
+                <Frame BackgroundColor="White" CornerRadius="10" Padding="10" BorderColor="#9C27B0">
+                    <VerticalStackLayout>
+                        <!-- Encabezado -->
+                        <HorizontalStackLayout>
+                            <Label Text="A" FontSize="18" FontAttributes="Bold" TextColor="Black" />
+                            <VerticalStackLayout>
+                                <Label Text="  Arañas" FontSize="16" FontAttributes="Bold" TextColor="Black" />
+                                <Label Text="partes de las arañas" FontSize="12" TextColor="Gray" />
+                            </VerticalStackLayout>
+                            <Button Text="⋮" FontSize="18" BackgroundColor="Transparent" />
+                        </HorizontalStackLayout>
+
+                        <!-- Video Placeholder -->
+                        <Frame HeightRequest="100" BackgroundColor="#E0E0E0" CornerRadius="10" HorizontalOptions="FillAndExpand">
+                            <Image Source="video_icon.png" HorizontalOptions="Center" VerticalOptions="Center" />
+                        </Frame>
+
+                        <!-- Descripción -->
+                        <Label Text="Arácnidos &#10;Y su anatomía" FontSize="16" FontAttributes="Bold" TextColor="Black" />
+                        <Label Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor" FontSize="14" TextColor="Gray" />
+
+                        <!-- Botón de siguiente lección -->
+                        <Button Text="Siguiente lección" BackgroundColor="#673AB7" TextColor="White" CornerRadius="10" />
+                    </VerticalStackLayout>
+                </Frame>
+            </VerticalStackLayout>
+        </Frame>
+    </VerticalStackLayout>
+</ContentPage>

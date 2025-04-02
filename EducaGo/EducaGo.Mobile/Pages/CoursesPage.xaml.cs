@@ -11,4 +11,9 @@ public partial class CoursesPage : ContentPage
 	{
 		InitializeComponent();
     }
+
+    private async void LessonClicked(object sender, EventArgs e)
+    {
+        await Navigation.PushModalAsync(new Pages.LessonPage());
+    }
 }
