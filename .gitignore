@@ -17,6 +17,8 @@
 mono_crash.*
 
 # Build results
+# LLVM / compiler intermediate files
+*.ll
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
